@@ -15,7 +15,7 @@ import tech.mhuang.ext.spring.start.SpringContextHolder;
 public class SpringJwtExternal implements IJwtExternal {
 
     @Override
-    public IJwtProducer create() {
-        return SpringContextHolder.registerBean("jwt", JwtHelper.class);
+    public IJwtProducer create(String key) {
+        return SpringContextHolder.registerBean(key, JwtHelper.class);
     }
 }

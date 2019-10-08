@@ -6,13 +6,13 @@
 
     <groupId>tech.mhuang</groupId>
     <artifactId>hmtool-ext-jwt-springboot</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <name>hmtool-ext-jwt-springboot</name>
     <url>http://hmtool-ext-jwt-springboot.mhuang.tech</url>
     <description>基于springboot的jwt封装</description>
     <properties>
-        <hmtool.ext.jwt.version>1.0.0</hmtool.ext.jwt.version>
-        <hmtool.ext.springboot.version>1.0.0</hmtool.ext.springboot.version>
+        <hmtool.ext.jwt.version>1.1.0</hmtool.ext.jwt.version>
+        <hmtool.ext.springboot.version>1.1.0</hmtool.ext.springboot.version>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>

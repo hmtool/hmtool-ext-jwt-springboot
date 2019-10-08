@@ -19,7 +19,7 @@ public class JwtProperties extends Jwt{
 
     /**
      * auto open jwt enable.
-     *  default enable false
+     *  default enable true
      */
     private boolean enable;
 
